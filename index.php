@@ -14,7 +14,7 @@ header('Location: envio.php');
 $result = mysqli_query($conexao, "INSERT INTO ausencia(nome,sobrenome,setor,datas,motivo)
  VALUES ('$nome','$sobrenome','$setor','$datas','$motivo')");
 }
-
+//teste
 
 ?>
 <!DOCTYPE html>
