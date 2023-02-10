@@ -1,0 +1,13 @@
+insert into ausencia(nome,sobrenome,setor,datas,motivo) values ('João','Ricardo','Adm','2023-03-27','novo Contratado!!!');
+insert into ausencia(nome,sobrenome,setor,datas,motivo) values ('Marcelo','Rodrigo','T.I','2023-03-20','novo Contratado!!!');
+insert into ausencia(nome,sobrenome,setor,datas,motivo) values ('Gabriel','Neves','Adm','2023-04-01','novo Contratado!!!');
+insert into ausencia(nome,sobrenome,setor,datas,motivo) values ('Pedro','Bueno','Comercial','2023-12-09','novo Contratado!!!');
+insert into ausencia(nome,sobrenome,setor,datas,motivo) values ('Wesley','Borges','Adm','2023-03-08','novo Contratado!!!');
+insert into ausencia(nome,sobrenome,setor,datas,motivo) values ('Jean','Mello','Adm','2023-03-27','novo Contratado!!!');
+insert into ausencia(nome,sobrenome,setor,datas,motivo) values ('Suzana','Novaes','Adm','2023-03-27','novo Contratado!!!');
+insert into ausencia(nome,sobrenome,setor,datas,motivo) values ('Fernando','winter','Fiscal','2023-08-15','novo Contratado!!!');
+insert into ausencia(nome,sobrenome,setor,datas,motivo) values ('Mauro','noriega','Federal','2023-06-17','novo Contratado!!!');
+insert into ausencia(nome,sobrenome,setor,datas,motivo) values ('Rafaela','Silva','Fiscal','2023-01-07','novo Contratado!!!');
+insert into ausencia(nome,sobrenome,setor,datas,motivo) values ('João','Pedro','Atendimento','2023-11-18','novo Contratado!!!');
+insert into ausencia(nome,sobrenome,setor,datas,motivo) values ('Manoel','Silva','Copa','2023-04-04','novo Contratado!!!');
+insert into ausencia(nome,sobrenome,setor,datas,motivo) values ('Sabrina','Santos','Federal','2023-06-29','novo Contratado!!!');
